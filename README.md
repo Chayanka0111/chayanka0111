@@ -76,7 +76,7 @@
   
 <h1 align="center">GitHub Stats</h1>  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep-4704&show_icons=true&theme=transparent)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chayanka0111&show_icons=true&theme=transparent)
 
 
 
@@ -84,4 +84,4 @@
 
 <h3>----</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Soumyadeep-4704&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Chayanka0111&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
