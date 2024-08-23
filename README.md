@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I am CHAYANKA BHARADWAJ</h1>
 
-<!--
-**Chayanka0111/chayanka0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">A developer and a Tech Enthusiast.</h4> 
+   
 
-Here are some ideas to get you started:
+<h1 align="center">Tech Stacks</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,kotlin)](https://skillicons.dev)
+## Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,react)](https://skillicons.dev)
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+
+
+
+
+
+  <hr />
+  
+- 🌱 Currently exploring the **Cloud Domain.**
+- 🤝 Looking for help in **Data Structures and Algorithms.**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love listening to music!**
+- <h4 align="left">Connect With Me</h4>
+  <div style= "gap: 12px">
+    <a href="(https://www.linkedin.com/in/soumyadeep-paul-6536ba291)"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="40" width="40" /></a>
+    <a href="mailto:soumyadeeppaul.info@gmail.com"><img align="center" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" height="40" width="40" /></a>
+  </div>
+    
+<hr />
+
+  
+<h1 align="center">GitHub Stats</h1>  
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep-4704&show_icons=true&theme=transparent)
+
+
+
+
+
+<h3>----</h3>
+
+[![](https://visitcount.itsvg.in/api?id=Soumyadeep-4704&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+
+<h4 align="center">A developer and an Open-Source Enthusiast.</h4> 
+   
+
+<h1 align="center">Tech Stacks</h1>
+
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+## Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+
+
+
+
+
+  <hr />
+  
+- 🌱 Currently exploring the **Cloud Domain.**
+- 🤝 Looking for help in **Data Structures and Algorithms.**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love listening to music!**
+- <h4 align="left">Connect With Me</h4>
+  <div style= "gap: 12px">
+    
+    <a href="mailto:chayanka00@gmail.com"><img align="center" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" height="40" width="40" /></a>
+  </div>
+    
+<hr />
+
+  
+<h1 align="center">GitHub Stats</h1>  
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep-4704&show_icons=true&theme=transparent)
+
+
+
+
+
+<h3>----</h3>
+
+[![](https://visitcount.itsvg.in/api?id=Soumyadeep-4704&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
